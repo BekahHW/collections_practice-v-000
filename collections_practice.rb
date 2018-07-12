@@ -23,5 +23,8 @@ def kesha_maker(array)
 end
 
 def find_a(array)
-  array.any? {|x| x.start_with?("a")}
+   if array.start_with?("a")
+"#{name}"
+
+  # array.any? {|x| x.start_with?("a")}
 end
