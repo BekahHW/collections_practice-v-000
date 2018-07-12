@@ -24,7 +24,7 @@ end
 
 def find_a(array)
    if array.start_with?("a")
-"#{name}"
+"#{array}"
 
   # array.any? {|x| x.start_with?("a")}
 end
