@@ -28,3 +28,4 @@ def find_a(array)
 
   # array.any? {|x| x.start_with?("a")}
 end
+end
